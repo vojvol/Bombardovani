@@ -86,7 +86,7 @@
 
 			Rychlost střelby: velmi rychlá	
 
-	Cíl hry a bodové hodnocení
+	#Cíl hry a bodové hodnocení
 
 		Cílem hry je zasáhnout cíl bez toho, aby vás sestřelilo protiletadlové dělostřelectvo.
 
