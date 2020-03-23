@@ -34,7 +34,7 @@ float promplane; //Něco letadla (hitbox) (používá se při detekci zásahu pr
 float bombposun; //posun bomb v souřadnici y
 
 void setup() {
-  fullScreen();
+  fullScreen(P2D);
 
   upgrade = false;
   zasah = false;
