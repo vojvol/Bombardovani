@@ -2,7 +2,7 @@
 
 	"Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! 
 
-	fLetadla:
+	Letadla:
 
 		Marcel Bloch MB.200 BN4
 
