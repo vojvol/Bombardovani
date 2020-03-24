@@ -45,7 +45,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Poškození: 5 hp <br>
 		* Rychlost střelby: pomalá <br>
 
-	* ### (Quick fire 40mm Mk.1 A.A. gun) bofors 40mm <br>
+	* ### (Quick fire 40mm Mk.1 A.A. gun) Bofors 40mm <br>
 
 		* Dostřel: střední letová hladina <br>
 		* Prěsnost: vysoká <br>
@@ -59,7 +59,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Přesnost: vysoká <br>
 		* Ohrožuje: nízká letová hladina <br>
 		* Poškození 1hp <br>
-		*Rychlost střelby: velmi rychlá	<br>
+		* Rychlost střelby: velmi rychlá	<br>
 
 * ## Cíl hry a bodové hodnocení <br>
 
@@ -70,9 +70,8 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 * NE za smrt nejste trestán nijak jinak než tím, že musíte letět znova. <br>
 * NE za netrefení cíle nejste trestán nijak jinak než tím, že musíte letět znova.	<br>
 
-## K tématu hry mě inspirovala jiná hra, kterou jsem jako mladší měl rád, ale bohužel mi nejde spustit. <br>
-
-Hra: Bomber crew <br>
+K tématu hry mě inspirovala jiná hra, kterou jsem jako mladší měl rád, ale bohužel mi nejde spustit. <br>
+[Bomber crew](https://http://bombercrewgame.com/ "Tato hra mě inspirovala").
 Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku obrazu/zvuku bohužel s tím nemůžu nic dělat, protože processing. <br>
 
 2. # Ovládání <br>
@@ -84,7 +83,7 @@ Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku
 	* Y nízká letová hladina <br>
 * Odhození pum se provádí klávesou B <br>
 	* Od zmáčknutí klávesy B se vše odehrává automaticky dokud nedojdou pumy (kromě Fritze X, kdy přejde k navádění myší) <br>
-*Klávesou R se restartuje nálet <br>
+* Klávesou R se restartuje nálet <br>
 3. # Bonus <br>
 
 [Kvalitní verze obrázků a zvuky](https://github.com/vojvol/dodatkove-soubory/tree/master/Bombardovani/Kvalitní%20verze%20obrázků "Klikni").
