@@ -3,7 +3,7 @@
 Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! <br>
 * ## Letadla: <br>
 
-	1. * ### Marcel Bloch MB.200 BN4 <br>
+	 * ### Marcel Bloch MB.200 BN4 <br>
 
 		* Země původu: Francie <br>
 		* Zaměřovač: žádný <br>
@@ -11,7 +11,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Maximální počet pum: 5 kusů <br>
 		* Odolnost: 10hp <br>
 
-	1. * ### Boeing B-17 Flying Fortress <br>
+	 * ### Boeing B-17 Flying Fortress <br>
 
 		* Země původu: Spojené státy americké <br>
 		* Zaměřovač:  přesnost +/- 50 pixelů v ose X <br>
@@ -19,7 +19,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Maximální počet pum: 10 kusů <br>
 		* Odolnost: 20 hp <br>
 
-	1. * ### Dornier Do 217 <br>
+	 * ### Dornier Do 217 <br>
 
 		* Země původu: Třetí říše <br>
 		* Zaměřovač stejný jako B17 (u Fritz X není třeba, takže ani není vidět) <br>
@@ -35,7 +35,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 
 * ## Protiletadlové dělostřelectvo <br>
 
-	2. ### ( Flugzeugabwehrkanone) Flak 88 <br>
+	* ### ( Flugzeugabwehrkanone) Flak 88 <br>
 
 		* Dostřel: nejvyšší letová hladina <br>
 		* Přesnost: nízká <br>
@@ -43,7 +43,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Poškození: 5 hp <br>
 		* Rychlost střelby: pomalá <br>
 
-	2. ### (Quick fire 40mm Mk.1 A.A. gun) bofors 40mm <br>
+	* ### (Quick fire 40mm Mk.1 A.A. gun) bofors 40mm <br>
 
 		* Dostřel: střední letová hladina <br>
 		* Prěsnost: vysoká <br>
@@ -51,7 +51,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Poškození 2 hp <br>
 		* Rychlost střelby: rychlá <br>
 
-	2. ###( Flugzeugabwehrkanone) Flak 38 <br>
+	* ###( Flugzeugabwehrkanone) Flak 38 <br>
 
 		* Dostřel: nízká letová hladina <br>
 		* Přesnost: vysoká <br>
