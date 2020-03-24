@@ -12,7 +12,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 * Maximální počet pum: 5 kusů <br>
 * Odolnost: 10hp <br>
 
-### 1. Boeing B-17 Flying Fortress <br>
+### 2. Boeing B-17 Flying Fortress <br>
 
 * Země původu: Spojené státy americké <br>
 * Zaměřovač:  přesnost +/- 50 pixelů v ose X <br>
@@ -28,7 +28,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 * Maximální počet pum: 10 kusů / 1 Fritz X <br>
 * Odolnost 15 hp <br>
 
-## Pumy: <br> 
+## 2. Pumy: <br> 
 
 * 16 liber <br>
 * 100 liber <br>
@@ -77,10 +77,13 @@ Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku
 # Ovládání <br>
 
 Pohyb vpřed je vykonáván automaticky <br>
-* Klávesy Q A Y vám umožní ovládat letovou hladinu a to v pořadí: <br>
-** Q nejvyšší letová hladina <br>
-*A střední letová hladina <br>
-*Y nízká letová hladina <br>
+Klávesy Q A Y vám umožní ovládat letovou hladinu a to v pořadí: <br>
+* Q nejvyšší letová hladina <br>
+* A střední letová hladina <br>
+* Y nízká letová hladina <br>
 Odhození pum se provádí klávesou B <br>
 Od zmáčknutí klávesy B se vše odehrává automaticky dokud nedojdou pumy (kromě Fritze X, kdy přejde k navádění myší) <br>
 Klávesou R se restartuje nálet <br>
+# Bonus <br>
+
+[Kvalitní verze obrázků a zvuky](https://github.com/vojvol/dodatkove-soubory/tree/master/Bombardovani/Kvalitní%20verze%20obrázků "Klikni").
