@@ -3,7 +3,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 
 ## Letadla: <br>
 ### 1. Marcel Bloch MB.200 BN4 <br>
-++ Země původu: Francie <br>
+** Země původu: Francie <br>
 ++ Zaměřovač: žádný <br>
 ++ Maximální hmotnost pumy: 16 liber <br>
 ++ Maximální počet pum: 5 kusů <br>
