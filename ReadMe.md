@@ -2,7 +2,7 @@
 ![Bombardovani, start picture](/data/loading.png)
 1. # Informace(letadla,atd.) <br>
 
-Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! <br>
+Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a míta původu jsou upraveny pro potřeby hry! <br>
 * ## Letadla: <br>
 
 	 * ### Marcel Bloch MB.200 BN4 <br>
