@@ -1,4 +1,4 @@
-#Informace(letadla,atd.)
+#Informace(letadla,atd.)<br>
 Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! 
 
 ##Letadla:
