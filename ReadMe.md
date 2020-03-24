@@ -8,7 +8,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 * Maximální hmotnost pumy: 16 liber <br>
 * Maximální počet pum: 5 kusů <br>
 * Odolnost: 10hp <br>
-### 2. Boeing B-17 Flying Fortress <br>
+### 1. Boeing B-17 Flying Fortress <br>
 * Země původu: Spojené státy americké <br>
 * Zaměřovač:  přesnost +/- 50 pixelů v ose X <br>
 * Maximální hmotnost pumy: 100 liber <br>
