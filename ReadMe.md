@@ -71,7 +71,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 * NE za netrefení cíle nejste trestán nijak jinak než tím, že musíte letět znova.	<br>
 
 K tématu hry mě inspirovala jiná hra, kterou jsem jako mladší měl rád, ale bohužel mi nejde spustit. <br>
-[Bomber crew](https://http://bombercrewgame.com/ "Tato hra mě inspirovala").
+[Bomber crew](https://http://bombercrewgame.com/ "Tato hra mě inspirovala"). <br>
 Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku obrazu/zvuku bohužel s tím nemůžu nic dělat, protože processing. <br>
 
 2. # Ovládání <br>
@@ -86,4 +86,4 @@ Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku
 * Klávesou R se restartuje nálet <br>
 3. # Bonus <br>
 
-[Kvalitní verze obrázků a zvuky](https://github.com/vojvol/dodatkove-soubory/tree/master/Bombardovani/Kvalitní%20verze%20obrázků "Klikni").
+[Kvalitní verze obrázků a zvuky](https://github.com/vojvol/dodatkove-soubory/tree/master/Bombardovani/Kvalitní%20verze%20obrázků "Klikni"). <br>
