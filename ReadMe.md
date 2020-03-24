@@ -37,7 +37,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 
 * ## Protiletadlové dělostřelectvo <br>
 
-	* ### ( Flugzeugabwehrkanone) Flak 88 <br>
+	* ### (Flugzeugabwehrkanone) Flak 88 <br>
 
 		* Dostřel: nejvyšší letová hladina <br>
 		* Přesnost: nízká <br>
@@ -53,7 +53,7 @@ Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě náz
 		* Poškození 2 hp <br>
 		* Rychlost střelby: rychlá <br>
 
-	* ###( Flugzeugabwehrkanone) Flak 38 <br>
+	* ### (Flugzeugabwehrkanone) Flak 38 <br>
 
 		* Dostřel: nízká letová hladina <br>
 		* Přesnost: vysoká <br>
