@@ -1,5 +1,7 @@
 # Bombardování
 ![Bombardovani, start picture](/data/loading.png)
+[Chci si stáhnout aplikaci Bombardování a né kód](https://www.dropbox.com/sh/0bfn4kxewm8l51b/AAADncvpvg6YtUQ2oV7RA6g6a?dl=0 "Klikni"). <br>
+https://www.dropbox.com/sh/0bfn4kxewm8l51b/AAADncvpvg6YtUQ2oV7RA6g6a?dl=0
 # 1. Informace(letadla,atd.) <br>
 
 Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! <br>
