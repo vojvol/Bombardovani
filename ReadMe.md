@@ -1,6 +1,6 @@
 # Bombardování
 ![Bombardovani, start picture](/data/loading.png)
-1. # Informace(letadla,atd.) <br>
+# 1. Informace(letadla,atd.) <br>
 
 Všechny statistiky pum, letadel a protivzdušného dělostřelectva kromě názvu a místa původu jsou upraveny pro potřeby hry! <br>
 * ## Letadla: <br>
@@ -74,7 +74,7 @@ K tématu hry mě inspirovala jiná hra, kterou jsem jako mladší měl rád, al
 [Bomber crew](http://bombercrewgame.com/ "Tato hra mě inspirovala"). <br>
 Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku obrazu/zvuku bohužel s tím nemůžu nic dělat, protože processing. <br>
 
-2. # Ovládání <br>
+# 2. Ovládání <br>
 
 * Pohyb vpřed je vykonáván automaticky <br>
 * Klávesy Q A Y vám umožní ovládat letovou hladinu a to v pořadí: <br>
@@ -84,6 +84,6 @@ Počítejte s tím, že občas dojde, na mém počítači minimálně, k záseku
 * Odhození pum se provádí klávesou B <br>
 	* Od zmáčknutí klávesy B se vše odehrává automaticky dokud nedojdou pumy (kromě Fritze X, kdy přejde k navádění myší) <br>
 * Klávesou R se restartuje nálet <br>
-3. # Bonus <br>
+# 3. Bonus <br>
 
 [Kvalitní verze obrázků a zvuky](https://github.com/vojvol/dodatkove-soubory/tree/master/Bombardovani/Kvalitní%20verze%20obrázků "Klikni"). <br>
